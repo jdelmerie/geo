@@ -1,0 +1,18 @@
+#entete {
+    background: url('img/header.jpg') no-repeat 100%;
+    min-height: 300px;
+}
+
+#entete h1 {
+    font-size: 55px;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;
+    color: white;
+    text-shadow: 4px 4px 2px  rgb(0, 0, 0);
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
